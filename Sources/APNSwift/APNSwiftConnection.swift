@@ -116,5 +116,6 @@ extension APNSwiftConnection {
         case voip
         case fileprovider
         case complication
+        case location
     }
 }
